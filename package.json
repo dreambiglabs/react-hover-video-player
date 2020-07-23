@@ -5,7 +5,8 @@
   "main": "es/index.js",
   "files": [
     "es",
-    "lib"
+    "lib",
+    "src"
   ],
   "scripts": {
     "build": "nwb build-react-component",
