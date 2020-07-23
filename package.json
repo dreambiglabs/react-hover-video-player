@@ -4,9 +4,7 @@
   "description": "React component which manages playing a video when the user hovers over it and pausing when they stop.",
   "main": "es/index.js",
   "files": [
-    "es",
-    "lib",
-    "src"
+    "*"
   ],
   "scripts": {
     "build": "nwb build-react-component",
