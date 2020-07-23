@@ -15,7 +15,7 @@
     "test": "jest --config=tests/jest.dev.config.js",
     "test:release": "npm run build -- --no-demo && jest --config=tests/jest.prod.config.js",
     "test:watch": "npm run test -- --watch --no-cache",
-    "commit": "npx git-cz",
+    "commit": "npx git-cz"
   },
   "precommit": [
     "build"
