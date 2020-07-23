@@ -1,5 +1,6 @@
 /coverage
 /es
+/demo/dist
 /lib
 /node_modules
 /umd

@@ -17,9 +17,6 @@
     "test:watch": "npm run test -- --watch --no-cache",
     "commit": "npx git-cz"
   },
-  "precommit": [
-    "build"
-  ],
   "dependencies": {},
   "peerDependencies": {
     "react": "^16.8.0"
